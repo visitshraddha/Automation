@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7981" started-at="2018-06-27T14:39:37Z" finished-at="2018-06-27T14:39:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7981" started-at="2018-06-27T14:39:37Z" finished-at="2018-06-27T14:39:45Z">
+      <class name="rest_Api.Rest_Api_GET">
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:rest_Api.Rest_Api_GET@26653222]" name="testStatusCode" duration-ms="4665" started-at="2018-06-27T14:39:37Z" finished-at="2018-06-27T14:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method status="PASS" signature="verifyData()[pri:0, instance:rest_Api.Rest_Api_GET@26653222]" name="verifyData" duration-ms="2153" started-at="2018-06-27T14:39:42Z" finished-at="2018-06-27T14:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyData -->
+        <test-method status="PASS" signature="verifyPostElements()[pri:0, instance:rest_Api.Rest_Api_GET@26653222]" name="verifyPostElements" duration-ms="1131" started-at="2018-06-27T14:39:44Z" finished-at="2018-06-27T14:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostElements -->
+      </class> <!-- rest_Api.Rest_Api_GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
